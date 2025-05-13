@@ -6,5 +6,5 @@ Control board based on the STM32F373V8T6 microcontroller. The board integrates A
 </p>
 
 <p align="center">
-  <img  src="/2d.png">
+  <img  src="/3d.png">
 </p>
