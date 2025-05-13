@@ -1,0 +1,140 @@
+Export log for : P-CAD ASCII (AutoPCB).Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:EX236Y236D1571
+AddingPadStyle P:EX0Y0D1571
+AddingPadStyle EF39X35TOP1
+AddingPadStyle EF37X37TOP1
+AddingPadStyle P:SX68Y68D451
+AddingPadStyle P:EX68Y68D451
+AddingPadStyle EF83X53TOP1
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle EF24X59TOP1
+AddingPadStyle EF47X16TOP1
+AddingPadStyle EF58X12TOP1
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF24X39TOP1
+AddingPadStyle EF58X18TOP1
+AddingPadStyle EF69X37TOP1
+AddingPadStyle EF126X69TOP1
+AddingPadStyle EF47X12TOP1
+AddingPadStyle EF24X8TOP1
+AddingPadStyle EF100X100TOP1
+AddingPadStyle EF22X59TOP1
+AddingPadStyle EF244X228TOP1
+AddingPadStyle EF118X63TOP1
+AddingPadStyle EF40X138TOP1
+AddingPadStyle EF413X330TOP1
+AddingPadStyle EF55X83TOP1
+AddingPadStyle P:EX49Y49D291
+AddingPadStyle EF75X47TOP1
+AddingPadStyle P:EX65Y65D431
+AddingPadStyle P:EX83Y83D551
+AddingPadStyle P:SX100Y100D671
+AddingPadStyle P:EX100Y100D671
+AddingPadStyle P:RRX63Y154D941
+AddingPadStyle P:EX43Y43D261
+AddingPadStyle P:SX86Y86D571
+AddingPadStyle P:EX86Y86D571
+AddingPadStyle EF93X61TOP1
+AddingPadStyle EF53X71TOP1
+AddingPadStyle EF43X24TOP1
+AddingPadStyle EF43X41TOP1
+AddingPadStyle EF59X51TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX28Y28D121
+Adding TextStyle (Default)
+Adding TextStyle T:H30W5
+Adding TextStyle T:H60W10
+Adding TextStyle T:H39W12
+Adding PatternDef RESC1608N_1
+Adding PatternDef CAPC1608N_1
+Adding PatternDef 2-1761603-1_1
+Adding PatternDef SOD-87_1
+Adding PatternDef CAPC1608N_2
+Adding PatternDef HDR2X3_1
+Adding PatternDef SOT23-3N_1
+Adding PatternDef SC-70-5_1
+Adding PatternDef SOP-48_1
+Adding PatternDef TP_1
+Adding PatternDef FIDUCIAL-1MM_1
+Adding PatternDef SOT-23-5_1
+Adding PatternDef TSSOP-14_1
+Adding PatternDef SOT-223-4_1
+Adding PatternDef LQFP100_1
+Adding PatternDef QFN-24_1
+Adding PatternDef SOIC-16_1
+Adding PatternDef DPAK_1
+Adding PatternDef D2PAK_1
+Adding PatternDef FSM4_1
+Adding PatternDef RESC1608N_2
+Adding PatternDef 3296W-1-502RLF_1
+Adding PatternDef INDC3216N_1
+Adding PatternDef G6BU-1114P_1
+Adding PatternDef CUI_TBP01R2-508-02BE_1
+Adding PatternDef 502237-0517_1
+Adding PatternDef HDR1X3_1
+Adding PatternDef 5103308-3_1
+Adding PatternDef DIOM5227X270N_1
+Adding PatternDef SOD-123F_1
+Adding PatternDef SOT-143_1
+Adding PatternDef CAPC2012N_1
+Adding CompDef RESC1608N_1
+Adding CompDef CAPC1608N_1
+Adding CompDef 2-1761603-1_1
+Adding CompDef SOD-87_1
+Adding CompDef CAPC1608N_2
+Adding CompDef HDR2X3_1
+Adding CompDef SOT23-3N_1
+Adding CompDef SC-70-5_1
+Adding CompDef SOP-48_1
+Adding CompDef TP_1
+Adding CompDef FIDUCIAL-1MM_1
+Adding CompDef SOT-23-5_1
+Adding CompDef TSSOP-14_1
+Adding CompDef SOT-223-4_1
+Adding CompDef LQFP100_1
+Adding CompDef QFN-24_1
+Adding CompDef SOIC-16_1
+Adding CompDef DPAK_1
+Adding CompDef D2PAK_1
+Adding CompDef FSM4_1
+Adding CompDef RESC1608N_2
+Adding CompDef 3296W-1-502RLF_1
+Adding CompDef INDC3216N_1
+Adding CompDef G6BU-1114P_1
+Adding CompDef CUI_TBP01R2-508-02BE_1
+Adding CompDef 502237-0517_1
+Adding CompDef HDR1X3_1
+Adding CompDef 5103308-3_1
+Adding CompDef DIOM5227X270N_1
+Adding CompDef SOD-123F_1
+Adding CompDef SOT-143_1
+Adding CompDef CAPC2012N_1
+      Warning: Net RELAYCON1 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON2 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON3 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON4 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON5 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON6 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON7 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON8 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON9 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Net RELAYCON10 already belongs to a NetClass and has not been added to NetClass RELAYCON[1..10]
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog

@@ -1,0 +1,4 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+            FID1-F1         26.6mm     82.55mm  Top                0mm  Surface mount
+            FID2-F1       26.275mm    4.6934mm  Top                0mm  Surface mount
+            FID3-F1     123.4144mm   84.3523mm  Top                0mm  Surface mount

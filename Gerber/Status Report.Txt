@@ -1,0 +1,9 @@
+Output: Copy Files
+Type  : Copy Files
+From  : Project [stm32f373-relay-control.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 1:55:17 PM On 5/13/2025
